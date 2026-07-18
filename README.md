@@ -73,7 +73,7 @@ Most of my projects are focused on improving my skills through experimentation, 
 
 <p>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" />
-<img src="https://img.shields.io/archlinux/v/:repository/:architecture/:packageName" />
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu" />
 <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian" />
 <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows" />
