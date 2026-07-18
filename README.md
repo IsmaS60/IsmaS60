@@ -32,7 +32,6 @@ Most of my projects are focused on improving my skills through experimentation, 
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" />
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk" />
 <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" />
 <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash" />
 </p>
 
@@ -74,6 +73,7 @@ Most of my projects are focused on improving my skills through experimentation, 
 
 <p>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/archlinux/v/:repository/:architecture/:packageName" />
 <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu" />
 <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian" />
 <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows" />
