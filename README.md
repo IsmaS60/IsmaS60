@@ -1,4 +1,4 @@
-# Hi, I'm Ismaele Salamone
+# 👋 Hi, I'm Ismaele Salamone
 
 ## Who I am
 
